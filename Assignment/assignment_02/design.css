@@ -1,0 +1,14 @@
+.bio{
+    color: black;
+    text-align: center;
+}
+.data{
+    color: blueviolet;
+    text-align: center;
+    text-size-adjust: var(black);
+}
+.image{
+    width: 500px;
+    height: 250px;
+    left: 500px;
+}
